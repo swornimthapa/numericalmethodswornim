@@ -1,5 +1,4 @@
 #include<iostream>
-#define f(x) 3*pow(x,3)-4*x*x+5*x-6
 using namespace std;
 int main()
 {
